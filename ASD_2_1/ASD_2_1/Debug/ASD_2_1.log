@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\wwsispoj\asd_2_1\asd_2_1\main.cpp(33): warning C4018: '<': signed/unsigned mismatch
+e:\wwsispoj\asd_2_1\asd_2_1\main.cpp(40): warning C4018: '<': signed/unsigned mismatch
+e:\wwsispoj\asd_2_1\asd_2_1\main.cpp(49): warning C4018: '<': signed/unsigned mismatch
+e:\wwsispoj\asd_2_1\asd_2_1\main.cpp(58): warning C4018: '<': signed/unsigned mismatch
+e:\wwsispoj\asd_2_1\asd_2_1\main.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  ASD_2_1.vcxproj -> E:\WWSISPOJ\ASD_2_1\Debug\ASD_2_1.exe
