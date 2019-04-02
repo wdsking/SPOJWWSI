@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kuba\source\repos\asd6_1\asd6_1\main.cpp(70): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kuba\source\repos\asd6_1\asd6_1\main.cpp(107): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  asd6_1.vcxproj -> C:\Users\kuba\source\repos\asd6_1\Debug\asd6_1.exe
